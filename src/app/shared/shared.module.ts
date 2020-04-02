@@ -6,13 +6,21 @@ import { LoadingSpinnerComponent } from './loading-spinner/loading-spinner.compo
 import { PlaceholderDirective } from './placeholder/placeholder.directive';
 import { DropdownDirective } from './dropdown.directive';
 import { LoggingService } from '../logging.service';
+import { FilterPipe } from '../filter.pipe';
+import { UnlessDirective } from '../unless.directive';
+import { BasicHighlightDirective } from '../basic-highlight/basic-highlight.directive';
+import { BetterHighlightDirective } from '../better-highlight/better-highlight.directive';
 
 @NgModule({
   declarations: [
     AlertComponent,
     LoadingSpinnerComponent,
     PlaceholderDirective,
-    DropdownDirective
+    DropdownDirective,
+    FilterPipe,
+    UnlessDirective,
+    BasicHighlightDirective,
+    BetterHighlightDirective
   ],
   imports: [CommonModule],
   exports: [
