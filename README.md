@@ -18,9 +18,13 @@ with the appropriate quantities
 ---
 
 ### Technology / Libraries Learnt and Used:
-1. Complete Angular 8 - All the basic concepts of components, directives, services, routing to Change Detection Strategies, Dependency Injection, Unit Testing, Security and much more
+1. Angular 8 - All the basic concepts of components, directives, services, routing to Change Detection Strategies, Dependency Injection, Unit Testing, Security and much more
 2. Firebase - Authentication using Email Password, OAuth, Storing Data, Realtime Databases, CloudFirestore
-3. I also possess the knowledge of NgRx for state management
+3. NgRx with Effects - For State Management of the app
+4. Angular Universal - To pre-render the application on the server so as to  
+prepoulate the HTML so that search engine web crawlers can access it
+5. PWA - To create an offline also application so that even if you're internet is down  
+your cooking never is
 
 ---
 

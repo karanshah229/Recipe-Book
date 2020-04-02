@@ -15,6 +15,7 @@ import * as fromApp from './store/app.reducer';
 import { AuthEffects } from './auth/store/auth.effects';
 import { environment } from '../environments/environment';
 import { RecipeEffects } from './recipes/store/recipe.effects';
+import { ServiceWorkerModule } from '@angular/service-worker';
 
 @NgModule({
   declarations: [AppComponent, HeaderComponent],
@@ -27,7 +28,8 @@ import { RecipeEffects } from './recipes/store/recipe.effects';
     StoreDevtoolsModule.instrument({ logOnly: environment.production }),
     StoreRouterConnectingModule.forRoot(),
     SharedModule,
-    CoreModule
+    CoreModule,
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   bootstrap: [AppComponent]
   // providers: [LoggingService]

@@ -1,5 +1,5 @@
 {
-  "name": "ng-complete-guide-update",
+  "name": "recipe-book",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -12,7 +12,7 @@
     "compile:server": "webpack --config webpack.server.config.js --progress --colors",
     "serve:ssr": "node dist/server",
     "build:ssr": "npm run build:client-and-server-bundles && npm run compile:server",
-    "build:client-and-server-bundles": "ng build --prod && ng run ng-complete-guide-update:server:production"
+    "build:client-and-server-bundles": "ng build --prod && ng run recipe-book:server:production"
   },
   "private": true,
   "dependencies": {
@@ -24,7 +24,9 @@
     "@angular/platform-browser": "^8.0.0",
     "@angular/platform-browser-dynamic": "^8.0.0",
     "@angular/platform-server": "^8.0.0",
+    "@angular/pwa": "^0.901.0",
     "@angular/router": "^8.0.0",
+    "@angular/service-worker": "^8.0.0",
     "@nestjs/common": "^6.0.0",
     "@nestjs/core": "^6.0.0",
     "@nestjs/ng-universal": "^1.1.1",

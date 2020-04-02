@@ -1,6 +1,6 @@
 const { LiveReloadCompiler } = require('@nestjs/ng-universal');
 
 const compiler = new LiveReloadCompiler({
-  projectName: 'ng-complete-guide-update'
+  projectName: 'recipe-book'
 });
 compiler.run();
