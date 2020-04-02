@@ -42,12 +42,15 @@ Manual Method:
 
 ## Screenshots
 
-![alt text](https://github.com/karanshah229/Python-Projects/blob/master/2._World_Population_and_Volcano_Map/screenshots/Population_layer.JPG "Web Map - All Layers")  
-![alt text](https://github.com/karanshah229/Python-Projects/blob/master/2._World_Population_and_Volcano_Map/screenshots/Volcano_layer.JPG "Web Map - All Layers")
+Desktop View:  
+![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/desktop_view/new_recipe_empty.JPG "Add New Recipe")  
+![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/desktop_view/login_page.JPG "Login Page")  
+![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/desktop_view/saved_recipes.JPG 'Saved Recipes')  
+![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/desktop_view/ingredients_to_shopping_list.JPG 'Add ingredients to Shopping List')  
 
-##### Note:
-The data used is not current and has not been created by me.  
-It is used only for education and illustrative purposes.
+Mobile View:  
+![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/mobile_view/mobile_view.jpg 'Saved Recipes')  
+![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/mobile_view/mobile_view_2.jpg 'Shopping List')  
 
 ###### If you find a bug or want to suggest some improvements
 Take a pull request or email:
