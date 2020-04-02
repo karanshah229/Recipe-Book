@@ -10,7 +10,6 @@ import { RecipeStartComponent } from './recipe-start/recipe-start.component';
 import { RecipeEditComponent } from './recipe-edit/recipe-edit.component';
 import { RecipesRoutingModule } from './recipes-routing.module';
 import { SharedModule } from '../shared/shared.module';
-import { ShortenPipe } from '../shorten.pipe';
 
 @NgModule({
   declarations: [
@@ -19,8 +18,7 @@ import { ShortenPipe } from '../shorten.pipe';
     RecipeDetailComponent,
     RecipeItemComponent,
     RecipeStartComponent,
-    RecipeEditComponent,
-    ShortenPipe
+    RecipeEditComponent
   ],
   imports: [
     RouterModule,
