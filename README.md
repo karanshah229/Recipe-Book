@@ -49,7 +49,7 @@ Desktop View:
 ![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/desktop_view/ingredients_to_shopping_list.JPG 'Add ingredients to Shopping List')  
 
 Mobile View:  
-![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/mobile_view/mobile_view.jpg 'Saved Recipes')  
+![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/mobile_view/mobile_view.jpg 'Saved Recipes')
 ![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/mobile_view/mobile_view_2.jpg 'Shopping List')  
 
 ###### If you find a bug or want to suggest some improvements
