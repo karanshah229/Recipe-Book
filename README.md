@@ -13,13 +13,19 @@ you need to buy.
 4. The recipes section also has a 'To shopping list section', where all the  
 ingredients specified in the recipe are added to the shopping list along  
 with the appropriate quantities
-5. The application also has an authentication section where user can login to  store the recipes for future usage
+5. The application also has an authentication section where user can login to  
+store the recipes for future usage
+6. The application also works without internet so you never miss any of your  
+cooking opportunities
 
 ---
 
 ### Technology / Libraries Learnt and Used:
-1. Angular 8 - All the basic concepts of components, directives, services, routing to Change Detection Strategies, Dependency Injection, Unit Testing, Security and much more
-2. Firebase - Authentication using Email Password, OAuth, Storing Data, Realtime Databases, CloudFirestore
+1. Angular 8 - All the basic concepts of components, directives, services,  
+routing to Change Detection Strategies, Dependency Injection, Unit Testing,  
+Security and much more
+2. Firebase - Authentication using Email Password, OAuth, Storing Data, Realtime Databases,  
+CloudFirestore
 3. NgRx with Effects - For State Management of the app
 4. Angular Universal - To pre-render the application on the server so as to  
 prepoulate the HTML so that search engine web crawlers can access it
@@ -40,7 +46,8 @@ Manual Method:
 1. Git clone the repository or alternatively download all the files in this folder
 2. Navigate to download location in terminal and execute:
 > ng serve -o
-3. This will open the browser automatically at the correct URL and start the application
+3. This will open the browser automatically at the correct URL and  
+start the application
 
 ---
 
