@@ -41,7 +41,7 @@ Hosted Site:
 2. Create a user and login or login with: test@test.com | test@123
 3. Click on Manage -> Fetch Data
 4. This will get the recipes already filled in for you as a starting point.
-5. You can play around - delete, add, edit recipes
+5. You can play around - delete, add, edit recipes  
 Manual Method:
 1. Git clone the repository or alternatively download all the files in this folder
 2. Navigate to download location in terminal and execute:
