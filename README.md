@@ -54,9 +54,10 @@ start the application
 ## Screenshots
 
 Desktop View:  
+
+![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/desktop_view/saved_recipes.JPG 'Saved Recipes')  
 ![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/desktop_view/new_recipe_empty.JPG "Add New Recipe")  
 ![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/desktop_view/login_page.JPG "Login Page")  
-![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/desktop_view/saved_recipes.JPG 'Saved Recipes')  
 ![alt text](https://github.com/karanshah229/Recipe-Book/blob/master/screenshots/desktop_view/ingredients_to_shopping_list.JPG 'Add ingredients to Shopping List')  
 
 Mobile View:  
